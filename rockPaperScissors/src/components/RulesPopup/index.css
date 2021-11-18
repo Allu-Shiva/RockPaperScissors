@@ -1,0 +1,34 @@
+.popup-content {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  height: 70%;
+}
+.rules-button {
+  align-self: flex-end;
+  background-color: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+  width: 90px;
+  height: 30px;
+  cursor: pointer;
+  outline: none;
+  color: #223a5f;
+  font-weight: bold;
+}
+.rules-img {
+  width: 60%;
+  align-self: center;
+}
+.close-button {
+  background-color: transparent;
+  border: 0px;
+  align-self: flex-end;
+  font-size: 22px;
+  cursor: pointer;
+  outline: none;
+  color: #223a5f;
+}
